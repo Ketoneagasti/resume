@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    position:absolute;
+    top:0%;
+    left:22%;
+    font-size:150%;
+    width:77.6%;
+    font-style:oblique italic;
+    border-style: solid ;
+    border-color: black;
+}
+.personal{
+    font-size: 400%;
+}
+.edu {
+    font-size: 300%;
+}
+.c12{
+    font-size: 200%;
+}
+.mark12{
+    font-family: sans-serif;
+    font-size: 150%;
+    font-weight: bolder;
+}
+table12 , tr, td, th{
+    border:1px solid black;
+}
+.s12{
+    font-size: 150%;
+}
+.c10{
+    font-size: 200%;
+}
+.mark10{
+    font-family: sans-serif;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.s10{
+    font-size: 150%;
+}
+.internship{
+    font-size: 300%;
+}
+.c{
+    font-size: 300%;
+}
+.ec{
+    font-size: 300%;
+}
+.cource{
+    font-size: 300%;
+}
+.name{
+    color: blue;
+    font-size: 150%;   
+}
+.edu{
+    color: blue;
+    font-size: 150%;    
+}
+.school1{
+    color: blue;
+    font-size: 150%; 
+}
+.school2{
+    color: blue;
+    font-size: 150%; 
+}
+.div2{
+    position:absolute;
+    width: 18%;
+    left: 3.3%;
+    border-style: solid ,color="white";
+    background-color: rgb(204, 201, 201);
+    border-color: black;
+}
+
+.od{
+    font-size: 200%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.email{
+    font-size:150%;
+}
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 120%;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+.ph{
+    font-size: 150%;
+}
+.address{
+    font-size: 150%;
+}
+.DOB{
+    font-size: 150%;
+}
+.loc{
+    font-size: 150%;
+}
+.gender{
+    font-size: 150%;
+}
+.country{
+    font-size: 150%;
+}
+.lang{
+    font-size: 200%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.hob{
+    font-size: 200%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.i1{
+    color: blue;
+    font-size: 150%; 
+}
+.c1{
+    color: blue;
+    font-size: 150%; 
+}
+.ec1{
+    color: blue;
+    font-size: 150%; 
+}
+.co1{
+    color: blue;
+    font-size: 150%; 
+}
